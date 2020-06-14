@@ -1,0 +1,26 @@
+.message {
+  display: block;
+  max-width: 100%;
+  border-radius: 5px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, .2);
+}
+
+.infoMessage {
+  background-color: rgba(0, 250, 0, .2);
+}
+
+.allMessage {
+  background-color: rgba(0, 0, 250, .2);
+}
+
+.hisMessage {
+  background-color: rgba(0, 250, 250, .2);
+}
+
+.errMessage {
+  background-color: rgba(250, 0, 0, .2);
+}
+
+.message p {
+  padding: 7px;
+}
